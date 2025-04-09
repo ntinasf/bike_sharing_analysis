@@ -1,0 +1,87 @@
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.zip
+data/*.gz
+merged_data.csv
+*.csv
+*.parquet
+
+# Credentials and keys
+*.json
+*key*.json
+*credential*.json
+*cred*.json
+*secret*.json
+.env
+.env.local
+.env.*
+
+# Python/Conda
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+.python-version
+
+# Conda specific
+/conda-meta/
+/conda-bld/
+/.conda/
+/conda-env/
+/envs/
+/pkgs/
+/.condarc
+
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.jupyter
+/nbextensions/
+/jupyter_notebook_config.*
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Logs
+logs/
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Power BI
+*.pbiviz
