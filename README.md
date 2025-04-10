@@ -22,7 +22,7 @@ A comprehensive data analysis project examining over 5.8 million bike rides to i
 
 1. **Data Collection**: Extracted 12 months of ride data (January 2024-June 2024) using Python
 2. **Data Cleaning**: Processed raw data in BigQuery using SQL, removing outliers and creating analytical tables
-3. **Data Modeling**: Developed a structured dimensional model in Power BI (ca custom data table was added)
+3. **Data Modeling**: Developed a structured dimensional model in Power BI (custom date table was added)  
 *Data model*  
 <img src="images/model.png" alt="model" width="1000" height="450">
 4. **Exploratory Analysis**: Created visualizations to identify patterns in temporal, behavioral, and spatial dimensions
