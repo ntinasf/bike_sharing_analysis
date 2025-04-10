@@ -44,5 +44,3 @@ A comprehensive data analysis project examining over 5.8 million bike rides to i
 - `/sql` - SQL queries for data cleaning and transformation
 - `analysis.ipynb` - Jupyter notebook which includes the analytical report
 - `/images` - Visualizations and charts
-
-<img src="images/by_month.png" alt="monthly_dist" width="1000" height="600">
