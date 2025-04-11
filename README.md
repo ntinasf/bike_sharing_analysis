@@ -42,5 +42,14 @@ A comprehensive data analysis project examining over 5.8 million bike rides to i
 
 - `/data` - Data processing scripts and information
 - `/sql` - SQL queries for data cleaning and transformation
-- `analysis.ipynb` - Jupyter notebook which includes the analytical report
+- `/notebooks` - Jupyter notebook which includes the analytical report
 - `/images` - Visualizations and charts
+
+## Analysis Files
+
+This repository contains the bike-sharing analysis in two complementary formats:
+
+* [**Analysis Report**](analysis.md) - Complete analysis with all visualizations and findings in an easily readable format
+* [**Analysis Notebook**](notebooks/analysis.ipynb) - Jupyter notebook containing the complete analysis with code for statistical tests and data processing
+
+> **Note:** Images within Jupyter notebooks may not render correctly when viewed directly on GitHub. The [Analysis Report](analysis.md) provides the complete analysis with all visualizations properly displayed.
